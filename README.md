@@ -1,3 +1,13 @@
+# PURPOSE OF PROJECT
+
+This project is an organized and clear demonstration of the interaction of React/Redux with TypeScript, using clear directory organization to implement a reducer for state management with action creations, redux store, react components and hooks.
+
+# WHAT THE PROJECT DOES
+
+This project searches a public API for code editor packages based on a user input.
+
+Example: Place in the form input 'react' and then press search to see a clear list of packages that include the term (string) of 'react'.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
